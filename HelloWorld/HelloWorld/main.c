@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    printf("va te faire foutre\n");
+    printf("Hello World\n");
     return 0;
 }
 
